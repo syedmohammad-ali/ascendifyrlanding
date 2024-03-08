@@ -11,10 +11,9 @@ export default function Home() {
     <main>
       <Navbar></Navbar>
       <Hero></Hero>
-      <Features></Features>
       <About></About>
+      <Features></Features>
       <Pricing></Pricing>
-      <Footer></Footer>
     </main>
   );
 }
