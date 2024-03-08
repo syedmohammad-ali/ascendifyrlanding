@@ -71,7 +71,7 @@ export default function About() {
                 us, they're the foundation of everything we do. We're committed
                 to delivering a product that's not only top-notch but also
                 reliable and accessible to everyone. So let's make this magic
-                happen together! - CEO & Co-Founder
+                happen together! - CEO & Co-Founder&nbsp;
                 <a
                   href="https://linkedin.com/in/warisareshi"
                   className="text-blue-500"
