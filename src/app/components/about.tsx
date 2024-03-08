@@ -70,9 +70,9 @@ export default function About() {
                 Excellence, reliability, and accessibility aren't just words to
                 us – they're the foundation of everything we do. We're committed
                 to delivering a product that's not only top-notch but also
-                reliable and accessible to everyone. <br />
-                So let's make this magic happen together! <br />
-                // CEO & Co-Founder{" "}
+                reliable and accessible to everyone.
+                So let's make this magic happen together!
+                // CEO & Co-Founder
                 <a
                   href="https://linkedin.com/in/warisareshi"
                   className="text-blue-500" target="blank"
