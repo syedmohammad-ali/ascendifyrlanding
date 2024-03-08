@@ -35,7 +35,7 @@ export default function About() {
               <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                 Running a marketing agency isn't just a job, it's a passion. And
                 we share that passion with you. That's why we've built
-                Ascendifyr – a tool designed to make your life easier, your work
+                Ascendifyr, a tool designed to make your life easier, your work
                 more efficient, and your dreams more achievable. We do
                 everything from sales automations to invoices so you don't have
                 to use 10 different softwares.
@@ -52,7 +52,7 @@ export default function About() {
                 </h5>
               </a>
               <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                Our platform is more than just software – it's a partner in your
+                Our platform is more than just software, it's a partner in your
                 success story. With a user-friendly interface, seamless
                 integrations, and all the essential features you need,
                 Ascendifyr is here to help you reach new heights.
@@ -68,7 +68,7 @@ export default function About() {
               </a>
               <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                 Excellence, reliability, and accessibility aren't just words to
-                us – they're the foundation of everything we do. We're committed
+                us, they're the foundation of everything we do. We're committed
                 to delivering a product that's not only top-notch but also
                 reliable and accessible to everyone.
                 So let's make this magic happen together!
