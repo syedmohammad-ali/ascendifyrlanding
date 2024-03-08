@@ -3,8 +3,8 @@ import Hero from "@/app/components/hero"
 import Features from "@/app/components/features";
 import Pricing from "@/app/components/pricing";
 import Footer from "./components/footer";
-import Mission from "@/app/components/mission";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import About from "@/app/components/about";
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
       <Navbar></Navbar>
       <Hero></Hero>
       <Features></Features>
-      <Mission></Mission>
+      <About></About>
       <Pricing></Pricing>
       <Footer></Footer>
     </main>
