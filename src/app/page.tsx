@@ -4,6 +4,7 @@ import Features from "@/app/components/features";
 import Pricing from "@/app/components/pricing";
 import Footer from "./components/footer";
 import Mission from "@/app/components/mission";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export default function Home() {
   return (
