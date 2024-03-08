@@ -72,7 +72,7 @@ export default function About() {
                 to delivering a product that's not only top-notch but also
                 reliable and accessible to everyone.
                 So let's make this magic happen together!
-                // CEO & Co-Founder
+                - CEO & Co-Founder
                 <a
                   href="https://linkedin.com/in/warisareshi"
                   className="text-blue-500" target="blank"
