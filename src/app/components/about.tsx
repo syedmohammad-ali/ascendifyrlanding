@@ -75,7 +75,7 @@ export default function About() {
                 // CEO & Co-Founder{" "}
                 <a
                   href="https://linkedin.com/in/warisareshi"
-                  className="text-blue-500"
+                  className="text-blue-500" target="blank"
                 >
                   Waris Abass
                 </a>
