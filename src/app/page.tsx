@@ -14,8 +14,8 @@ export default function Home() {
       <Hero></Hero>
       <Features></Features>
       <Pricing></Pricing>
-      <Closing></Closing>
       <About></About>
+      <Closing></Closing>
       <Footer></Footer>
     </main>
   );

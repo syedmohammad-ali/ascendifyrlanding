@@ -3,7 +3,7 @@ export default function About() {
     <div id="about">
       <div className="flex flex-col items-center justify-center">
         <div>
-          <h1 className="text-4xl font-bold mt-5">Some Words from Us</h1>
+          <h1 className="text-4xl font-bold mt-9">Some Words from Us</h1>
         </div>
         <p className="mt-3">
           Welcome to Ascendifyr – where we're not just about software, we're
@@ -70,12 +70,12 @@ export default function About() {
                 Excellence, reliability, and accessibility aren't just words to
                 us, they're the foundation of everything we do. We're committed
                 to delivering a product that's not only top-notch but also
-                reliable and accessible to everyone.
-                So let's make this magic happen together!
-                - CEO & Co-Founder
+                reliable and accessible to everyone. So let's make this magic
+                happen together! - CEO & Co-Founder
                 <a
                   href="https://linkedin.com/in/warisareshi"
-                  className="text-blue-500" target="blank"
+                  className="text-blue-500"
+                  target="blank"
                 >
                   Waris Abass
                 </a>
