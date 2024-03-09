@@ -8,7 +8,7 @@ export default function hero() {
         We are the revolution that Agency Owners have been wanting for ages!
       </h3>
       <div className="flex flex-row">
-        <button className="flex flex-row bg-white hover:text-white hover:bg-green-700 text-black font-bold py-2 px-4 rounded text-2xl m-2">
+        <button className="flex flex-row bg-white hover:text-white hover:bg-green-500 text-black font-bold py-2 px-4 rounded text-2xl m-2">
           <Image
             src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
             width={32}
@@ -20,14 +20,14 @@ export default function hero() {
           </a>
         </button>
 
-        <button className="flex flex-row bg-white hover:bg-blue-700 hover:text-white text-black font-bold py-2 px-4 rounded text-2xl m-2">
+        <button className="flex flex-row bg-white hover:bg-blue-500 hover:text-white text-black font-bold py-2 px-4 rounded text-2xl m-2">
           <Image
             src="/linkedin.png"
             width={29}
             height={29}
             alt="Linkedin Logo"
           />
-          <a href="https://chat.whatsapp.com/DXbh1xx7ECAFQwSu4TUbWo">
+          <a href="https://linkedin.com/company/ascendifyr">
             &nbsp;Follow us on LinkedIn
           </a>
         </button>
