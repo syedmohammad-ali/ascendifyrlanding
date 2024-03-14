@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div id="about">
-      <div className="flex flex-col items-center justify-center">
+      <div className="flex flex-col items-center justify-center dark:bg-black text-white">
         <div>
           <h1 className="text-4xl font-bold mt-9">Some Words from Us</h1>
         </div>

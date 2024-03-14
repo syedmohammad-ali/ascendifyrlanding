@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Features() {
   return (
-    <div id="features">
+    <div id="features" className="dark:bg-black text-white">
       <div className="flex flex-row items-center justify-center">
         <h1 className="font-bold text-4xl mt-7 mb-6">Free Features</h1>
       </div>

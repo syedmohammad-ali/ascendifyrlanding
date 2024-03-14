@@ -6,6 +6,7 @@ import Footer from "./components/footer";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import About from "@/app/components/about";
 import Closing from "@/app/components/closing";
+import Blank from "./components/blank";
 
 export default function Home() {
   return (
@@ -15,8 +16,11 @@ export default function Home() {
       <Features></Features>
       <Pricing></Pricing>
       <About></About>
+      <Blank></Blank>
       <Closing></Closing>
+      <Blank></Blank>
       <Footer></Footer>
+
     </main>
   );
 }

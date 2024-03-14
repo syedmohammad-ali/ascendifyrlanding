@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Pricing() {
   return (
-    <div id="pricing">
+    <div id="pricing" className="dark:bg-black text-white">
       <div className="flex flex-col items-center justify-center">
         <h1 className="text-4xl font-bold mb-5 mt-7">Pricing</h1>
         <div className="flex flex-row items-center justify-center">
@@ -62,14 +62,14 @@ export default function Pricing() {
                 <h3>Invoicing and Payments</h3>
               </div>
             </div>
-            <h5 className="text-2xl font-bold text-blue-600 m-2">$0/month</h5>
+            <h5 className="text-2xl font-bold text-blue-600 m-2 dark:text-white">$0/month</h5>
           </div>
 
           <div className="plan2 p-7 max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-5">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
               Entreprenuer
             </h5>
-            <div className="text-blue-600 font-bold">
+            <div className="text-blue-600 font-bold dark:text-white">
               <div className="flex flex-row">
                 <Image
                   src="/checkbox.svg"
@@ -181,7 +181,7 @@ export default function Pricing() {
                 <h3>Exclusive Support</h3>
               </div>
             </div>
-            <h5 className="text-2xl font-bold text-blue-600 m-2">$27/month</h5>
+            <h5 className="text-2xl font-bold text-blue-600 m-2 dark:text-white">$27/month</h5>
           </div>
 
           <div className="plan1 p-7 max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-5">
@@ -260,7 +260,7 @@ export default function Pricing() {
                 <h3>Agency Contracts (Coming Soon)</h3>
               </div>
             </div>
-            <h5 className="text-2xl font-bold text-blue-600 m-2">$178/month</h5>
+            <h5 className="text-2xl font-bold text-blue-600 m-2 dark:text-white">$178/month</h5>
           </div>
         </div>
       </div>
